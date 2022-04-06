@@ -1,7 +1,7 @@
 # The--Websong
 Song on the Web - 2022
 
-There once was a web
-That had a big spider
+There once was a web,
+that had a big spider!
 O M Gee
-Thats a really big spider
+Thats a really big spider!
